@@ -1,0 +1,11 @@
+com/yfy/service/TodoItemService.class
+com/yfy/service/DemoService.class
+com/yfy/config/WebAppInitializer.class
+com/yfy/model/TodoData.class
+com/yfy/service/TodoItemServiceImpl.class
+com/yfy/util/AttributeNames.class
+com/yfy/model/TodoItem.class
+com/yfy/config/WebConfig.class
+com/yfy/util/ViewNames.class
+com/yfy/util/Mappings.class
+com/yfy/controller/TodoItemController.class
