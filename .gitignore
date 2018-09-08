@@ -12,5 +12,5 @@
 hs_err_pid*
 
 # work directories
-.idea/
-target/
+.idea
+target
